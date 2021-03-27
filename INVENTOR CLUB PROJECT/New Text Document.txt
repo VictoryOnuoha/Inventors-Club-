@@ -1,0 +1,12 @@
+Colour Pallette:
+https://coolors.co/8ecae6-219ebc-023047-ffb703-fb8500
+
+Font Pallete: 
+https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Poppins:wght@600;700&family=Playfair+Display:ital@1&display=swap
+
+Header: Merriweather
+Paragraph: Poppings  
+Button: Playfair
+
+How to Blur and Center text: 
+https://www.w3schools.com/howto/howto_css_blurred_background.asp
